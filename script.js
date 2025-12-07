@@ -1,5 +1,5 @@
-const VALID_USERNAME = "iwannafuckyou";
-const VALID_PASSWORD = "everyday"
+const VALID_USERNAME = "whatIWantToHear?";
+const VALID_PASSWORD = "iwannafuckyou"
 
 function login() {
   const usernameInput = document.getElementById("username");
